@@ -1,6 +1,8 @@
 # David_Brierley_Portfolio
 My data science and data analytics projects. 
 
+
+
 # [Project 1 - Titanic Data Set - Logistic Regression](https://github.com/Brierley77/Titanic-Data-Set/blob/main/Titanic%20Submission%20.ipynb)
 Here I implemented logistic regression to the Titanic Data Set, to try and predict whether individuals on board were likely to survive or not, depending on a number of variables. 
 
