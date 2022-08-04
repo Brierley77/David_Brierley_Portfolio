@@ -13,3 +13,7 @@ I ran my logistic regression on 6 variables first, then I dropped columns and fo
 My model predicted all who survived and all who didn't.
 
 I set myself this challenge for the well known kaggle competition.
+
+# [Project 2 - Lego Analysis Project](https://github.com/Brierley77/Lego_Analysis_Project/blob/main/Lego%20Analysis%20Project%20.ipynb)
+Setting myself some more 'realistic' data science problems and questions to solve. This analysis followed a youtube tutorial. Was a great learning experience as I set myself the challenge to find the solution myself first and if needed, follow along with the solution. Downloaded the data straight from Gitbhub.
+
