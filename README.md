@@ -17,3 +17,9 @@ I set myself this challenge for the well known kaggle competition.
 # [Project 2 - Lego Analysis Project](https://github.com/Brierley77/Lego_Analysis_Project/blob/main/Lego%20Analysis%20Project%20.ipynb)
 Setting myself some more 'realistic' data science problems and questions to solve. This analysis followed a youtube tutorial. Was a great learning experience as I set myself the challenge to find the solution myself first and if needed, follow along with the solution. Downloaded the data straight from Gitbhub.
 
+# Project 3 - Web-Scraping
+##[Web-Scraping - Learning Basic Principles](https://github.com/Brierley77/Web_Scraping/blob/main/Web%20Scraping%20.ipynb)
+##[Web-Scraping - Continued Learning / Real Web-Scrape](https://github.com/Brierley77/Web_Scraping/blob/main/Web%20Scraping%20.ipynb)
+The first notebook 'Web Sraping' is me following a website tutorial. I am just keeping it simple here to understand the basics.
+
+The second 'Own Web Scraping' is myself pushing my learning by trying to webscrape a real website for weather data. This is still on-going. I am trying to increase my webscraping skills to start gathering some really nice datasets of my own. This is an ongoing project that I am going to try and run everyday / ever couple of days to build my own weather data base. I am going to try and learn how to then push this into my own SQL database.
