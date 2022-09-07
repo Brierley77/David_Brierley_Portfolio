@@ -32,6 +32,5 @@ This is my notebook I would use to teach my apprentices the basics of linear reg
 # [Project 6 - My Logistic Regression Teaching Notebook](https://github.com/Brierley77/Logistic_Regression_/blob/main/Logistic%20Regression.ipynb)
 This is my notebook I would use to teach my apprentices the basics of logistic regression. In this notebook we are trying to predict a binary outcome of whether a patient is likely to be diabetic or not, from a singular feature to then multiple features. This is a great example of how one should always be tailoring one's models, including and including variables where necessary. 
 
-
-
-#
+# [Project 7 - My Clustering Teaching Notebook](https://github.com/Brierley77/Clustering_K_Means_/blob/main/Clustering%20K-Means.ipynb)
+This is my notebook I would use to teach my apprentices the basics of clustering using K_Means. This is a great notebook as it is the first unsupervised learning technique I introduce to my apprentices. It allows for great discussions of how to implement this in their verying fields / industries. 
