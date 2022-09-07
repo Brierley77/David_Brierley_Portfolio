@@ -25,3 +25,13 @@ The second 'Own Web Scraping' is myself pushing my learning by trying to webscra
 
 # [Project 4 - Dashboarding](https://github.com/Brierley77/PowerBi-Dashboarding/blob/main/House%20Data%20Dashboard.pdf)
 Here I set myself the challenge of producing better, more appealing dashboards. I used the KC_Housing data set for this dashboard and wanted to be able to showcase what the majority of KPI dashboards / general dashboarding showcases. Including a bunch of important / key visuals, some sort of filter (floors), different plots inclusing line graphs, bar graphs and scatter plots. It is a personal goal of mine to keep pushing my skills with PowerBi as well as Tableau.
+
+# [Project 5 - My Linear Regression Teaching Notebook](https://github.com/Brierley77/Linear_Regression_/blob/main/Linear%20Regression.ipynb)
+This is my notebook I would use to teach my apprentices the basics of linear regression. In this notebook we go through a really simple univariate regression to get to grips with the concept. After this we delve into a multivariate regression.
+
+# [Project 6 - My Logistic Regression Teaching Notebook](https://github.com/Brierley77/Logistic_Regression_/blob/main/Logistic%20Regression.ipynb)
+This is my notebook I would use to teach my apprentices the basics of logistic regression. In this notebook we are trying to predict a binary outcome of whether a patient is likely to be diabetic or not, from a singular feature to then multiple features. This is a great example of how one should always be tailoring one's models, including and including variables where necessary. 
+
+
+
+#
