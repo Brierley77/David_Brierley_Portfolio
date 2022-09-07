@@ -34,3 +34,6 @@ This is my notebook I would use to teach my apprentices the basics of logistic r
 
 # [Project 7 - My Clustering Teaching Notebook](https://github.com/Brierley77/Clustering_K_Means_/blob/main/Clustering%20K-Means.ipynb)
 This is my notebook I would use to teach my apprentices the basics of clustering using K_Means. This is a great notebook as it is the first unsupervised learning technique I introduce to my apprentices. It allows for great discussions of how to implement this in their verying fields / industries. 
+
+# [Project 8 - My Text Analysis Teaching Notebook](https://github.com/Brierley77/Text_Analysis_/blob/main/Text%20Analysis.ipynb)
+This is my notebook I would use to teach my apprentices the basics of text analysis. This is a great notebook as it provides the basics of cleaning text using ragex, tokenising, using stop words and lemnmetisation. At the end of this notebook we also combine our logistic regression material to try and predict whether a yelp review would give 1 or 5 start reviews. 
