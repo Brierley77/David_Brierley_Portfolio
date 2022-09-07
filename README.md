@@ -37,3 +37,6 @@ This is my notebook I would use to teach my apprentices the basics of clustering
 
 # [Project 8 - My Text Analysis Teaching Notebook](https://github.com/Brierley77/Text_Analysis_/blob/main/Text%20Analysis.ipynb)
 This is my notebook I would use to teach my apprentices the basics of text analysis. This is a great notebook as it provides the basics of cleaning text using ragex, tokenising, using stop words and lemnmetisation. At the end of this notebook we also combine our logistic regression material to try and predict whether a yelp review would give 1 or 5 start reviews. 
+
+# [Project 9 - My Time Series Analysis Notebook](https://github.com/Brierley77/Time_Series_Analysis_/blob/main/Time%20Series%20Analysis.ipynb)
+This is my notebook I would use to teach my apprentices the basics of time series analysis. In this notebook we go through using data time, time delta as well as just genreall dealing with dates/ time. The main focus of this notebook is to gain general insights into datasets that are time bound. 
