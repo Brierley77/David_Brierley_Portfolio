@@ -40,3 +40,6 @@ This is my notebook I would use to teach my apprentices the basics of text analy
 
 # [Project 9 - My Time Series Analysis Notebook](https://github.com/Brierley77/Time_Series_Analysis_/blob/main/Time%20Series%20Analysis.ipynb)
 This is my notebook I would use to teach my apprentices the basics of time series analysis. In this notebook we go through using data time, time delta as well as just genreall dealing with dates/ time. The main focus of this notebook is to gain general insights into datasets that are time bound. 
+
+# [Project 10 - My Sleep Analysis](https://github.com/Brierley77/Sleep_Data_Analysis/blob/main/Sleep%20Data%20Analysis%20.ipynb)
+I am beginning to analyse my sleep from my samsung active watch 2. I have cleaned and put this data into a format that I would now like to do some EDA on and analyse to find any patterns / useful insights. 
