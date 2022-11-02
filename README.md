@@ -41,5 +41,8 @@ This is my notebook I would use to teach my apprentices the basics of text analy
 # [Project 9 - My Time Series Analysis Notebook](https://github.com/Brierley77/Time_Series_Analysis_/blob/main/Time%20Series%20Analysis.ipynb)
 This is my notebook I would use to teach my apprentices the basics of time series analysis. In this notebook we go through using data time, time delta as well as just genreall dealing with dates/ time. The main focus of this notebook is to gain general insights into datasets that are time bound. 
 
-# [Project 10 - My Sleep Analysis](https://github.com/Brierley77/Sleep_Data_Analysis/blob/main/Sleep%20Data%20Analysis%20.ipynb)
+# [Project 10 - My Time Series Forecasting Notebook](https://github.com/Brierley77/Time_Series_Forecasting_/blob/main/Time%20Series%20Forecast.ipynb)
+This is my time series forecasting notebook I would use to teach my apprentices. In this notebook I focus on ARIMA / SARIMA models. In the notebook we manually pick the p,d and q variables from the ADF and PACF for our time series model. The data set we use has high seasonality as well as a strong trend, so SARIMA is a good model for this. Holts-Winters is good alternative too. 
+
+# [Project 11 - My Sleep Analysis](https://github.com/Brierley77/Sleep_Data_Analysis/blob/main/Sleep%20Data%20Analysis%20.ipynb)
 I am beginning to analyse my sleep from my samsung active watch 2. I have cleaned and put this data into a format that I would now like to do some EDA on and analyse to find any patterns / useful insights. 
