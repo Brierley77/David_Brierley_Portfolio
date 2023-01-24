@@ -26,23 +26,26 @@ The first notebook 'Web Sraping' is me following a website tutorial. I am just k
 
 The second 'Own Web Scraping' is myself pushing my learning by trying to webscrape a real website for weather data. This is still on-going. I am trying to increase my webscraping skills to start gathering some really nice datasets of my own. This is an ongoing project that I am going to try and run everyday / ever couple of days to build my own weather data base. I am going to try and learn how to then push this into my own SQL database as well as automate this process. 
 
-# [Project 5 - Dashboarding](https://github.com/Brierley77/PowerBi-Dashboarding/blob/main/House%20Data%20Dashboard.pdf)
-Here I set myself the challenge of producing better, more appealing dashboards. I used the KC_Housing data set for this dashboard and wanted to be able to showcase what the majority of KPI dashboards / general dashboarding showcases. Including a bunch of important / key visuals, some sort of filter (floors), different plots inclusing line graphs, bar graphs and scatter plots. It is a personal goal of mine to keep pushing my skills with PowerBi as well as Tableau.
+# [Project 5 - PowerBI Dashboarding](https://github.com/Brierley77/PowerBi-Dashboarding/blob/main/House%20Data%20Dashboard.pdf)
+I set myself the challenge of producing better, more appealing dashboards. I used the KC_Housing data set for this dashboard and wanted to be able to showcase what the majority of KPI dashboards / general dashboarding showcases. Including a bunch of important / key visuals, some sort of filter (floors), different plots inclusing line graphs, bar graphs and scatter plots. It is a personal goal of mine to keep pushing my skills with PowerBi as well as Tableau.
 
-# [Project 6 - My Linear Regression Teaching Notebook](https://github.com/Brierley77/Linear_Regression_/blob/main/Linear%20Regression.ipynb)
+# [Project 6 - Tableau Dashboarding](https://github.com/Brierley77/Tableau_Dashboarding-/blob/main/Netflix%20Dashboard%20Image.png)
+I wanted to become more familiar with Tableau. I followed an online tutorial to learn the basics of Tableau dashboarding. The end result is a Netflix dashboard following the netflix colour palet. More Tableau dashboards to come! 
+
+# [Project 7 - My Linear Regression Teaching Notebook](https://github.com/Brierley77/Linear_Regression_/blob/main/Linear%20Regression.ipynb)
 This is my notebook I would use to teach my apprentices the basics of linear regression. In this notebook we go through a really simple univariate regression to get to grips with the concept. After this we delve into a multivariate regression.
 
-# [Project 7 - My Logistic Regression Teaching Notebook](https://github.com/Brierley77/Logistic_Regression_/blob/main/Logistic%20Regression.ipynb)
+# [Project 8 - My Logistic Regression Teaching Notebook](https://github.com/Brierley77/Logistic_Regression_/blob/main/Logistic%20Regression.ipynb)
 This is my notebook I would use to teach my apprentices the basics of logistic regression. In this notebook we are trying to predict a binary outcome of whether a patient is likely to be diabetic or not, from a singular feature to then multiple features. This is a great example of how one should always be tailoring one's models, including and including variables where necessary. 
 
-# [Project 8 - My Clustering Teaching Notebook](https://github.com/Brierley77/Clustering_K_Means_/blob/main/Clustering%20K-Means.ipynb)
+# [Project 9 - My Clustering Teaching Notebook](https://github.com/Brierley77/Clustering_K_Means_/blob/main/Clustering%20K-Means.ipynb)
 This is my notebook I would use to teach my apprentices the basics of clustering using K_Means. This is a great notebook as it is the first unsupervised learning technique I introduce to my apprentices. It allows for great discussions of how to implement this in their verying fields / industries. 
 
-# [Project 9 - My Text Analysis Teaching Notebook](https://github.com/Brierley77/Text_Analysis_/blob/main/Text%20Analysis.ipynb)
+# [Project 10 - My Text Analysis Teaching Notebook](https://github.com/Brierley77/Text_Analysis_/blob/main/Text%20Analysis.ipynb)
 This is my notebook I would use to teach my apprentices the basics of text analysis. This is a great notebook as it provides the basics of cleaning text using ragex, tokenising, using stop words and lemnmetisation. At the end of this notebook we also combine our logistic regression material to try and predict whether a yelp review would give 1 or 5 start reviews. 
 
-# [Project 10 - My Time Series Analysis Notebook](https://github.com/Brierley77/Time_Series_Analysis_/blob/main/Time%20Series%20Analysis.ipynb)
+# [Project 11 - My Time Series Analysis Notebook](https://github.com/Brierley77/Time_Series_Analysis_/blob/main/Time%20Series%20Analysis.ipynb)
 This is my notebook I would use to teach my apprentices the basics of time series analysis. In this notebook we go through using data time, time delta as well as just genreall dealing with dates/ time. The main focus of this notebook is to gain general insights into datasets that are time bound. 
 
-# [Project 11 - My Time Series Forecasting Notebook](https://github.com/Brierley77/Time_Series_Forecasting_/blob/main/Time%20Series%20Forecast.ipynb)
+# [Project 12 - My Time Series Forecasting Notebook](https://github.com/Brierley77/Time_Series_Forecasting_/blob/main/Time%20Series%20Forecast.ipynb)
 This is my time series forecasting notebook I would use to teach my apprentices. In this notebook I focus on ARIMA / SARIMA models. In the notebook we manually pick the p,d and q variables from the ADF and PACF for our time series model. The data set we use has high seasonality as well as a strong trend, so SARIMA is a good model for this. Holts-Winters is good alternative too. 
